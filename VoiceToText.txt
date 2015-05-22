@@ -1,0 +1,2 @@
+http://www.javacodegeeks.com/2012/08/android-voice-recognition-tutorial.html
+http://viralpatel.net/blogs/android-speech-to-text-api/
