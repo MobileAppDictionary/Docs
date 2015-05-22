@@ -1,0 +1,2 @@
+http://stackoverflow.com/questions/24693420/text-to-speech-library-android
+http://code.tutsplus.com/tutorials/android-sdk-using-the-text-to-speech-engine--mobile-8540
