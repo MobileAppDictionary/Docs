@@ -2,3 +2,4 @@
 2. Text to Speech . Phát âm.
 3. Voice to Text . Không biết viết.
 4. Hoàng đẹp trai
+5. Huy đẹp trai
