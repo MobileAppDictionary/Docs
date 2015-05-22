@@ -1,0 +1,5 @@
+Text2Speech v Speech2Text:
+		http://www.dotnetcurry.com/showarticle.aspx?ID=1005
+		http://www.jayway.com/2014/04/15/windows-phone-8-1-for-developers-texttospeech/
+		http://www.kunal-chowdhury.com/2014/06/whats-new-for-wp8dev-text2speech.html
+		https://msdn.microsoft.com/en-us/library/windows.media.speechsynthesis.aspx
